@@ -1,3 +1,7 @@
+# ❗ Important
+
+The PostgreSQL database was created using the free version of Render. So, it going to expire in 90 days (October 9, 2023).
+
 # Requisitos Funcionais (RF)
 
 - [x] O usuário deve poder criar uma conta
