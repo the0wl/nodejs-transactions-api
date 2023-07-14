@@ -18,6 +18,4 @@ export const config: Knex.Config = {
   },
 }
 
-console.log(config)
-
 export const knex = setupKnex(config)
