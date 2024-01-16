@@ -1,15 +1,15 @@
 # Deployment
 
-This API is available at two domains:
+Esta API está disponível em dois domínios:
 
 - https://api-8xwz.onrender.com
 - https://nodejs-transactions-api-production.up.railway.app
 
 <br>
 
-> ❗ Important
+> ❗ Importante
 > 
-> The PostgreSQL database was created using the free version of Render. So, it going to expire in 90 days (October 9, 2023).
+> O banco de dados PostgreSQL foi criado utilizando a versão gratuita do Render. Dito isso, ele irá expirar em 90 dias (October 9, 2023).
 
 # Requisitos Funcionais (RF)
 
